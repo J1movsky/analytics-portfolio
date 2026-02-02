@@ -2,7 +2,7 @@
 Здесь собраны учебные и практические проекты по аналитике данных: от исследовательского анализа и статистики до визуализации и маркетинговой аналитики. Проекты выполнены в Jupyter Notebook и PowerBi, для удобства добавлены HTML-версии. Датасеты являются конфиденциальными и в репозиторий не включены.
 ## Основные проекты
 
-### 1. https://j1movsky.github.io/analytics-portfolio/construction-company/index.html
+### 1. [Отчет в Power BI по предоставленным данным Строительного магазина](https://j1movsky.github.io/analytics-portfolio/construction-company/index.html)
 
 
 - Рассчёт основных метрик и KPI
