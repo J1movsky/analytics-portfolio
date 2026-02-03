@@ -10,7 +10,7 @@
 - Результат:  Визуализация отчета в PowerBI.
 
 
-### Проект 2. [Экспериментальная оптимизация маркетплейса онлайн-курсов](https://j1movsky.github.io/analytics-portfolio/online_course_marketplace/project_data_courses.html)
+### Проект 2. [Экспериментальная оптимизация маркетплейса онлайн-курсов](https://j1movsky.github.io/analytics-portfolio/online_course_marketplace/Index.html)
 
 - Задача:  Оценить влияние факторов продукта (цены и рейтинга курса) на вовлечённость пользователей и выручку платформы с использованием экспериментального подхода.
 - Инструменты:  Python, Pandas, Numpy, Matplotlib, Jupyter Notebook
