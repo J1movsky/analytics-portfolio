@@ -3,14 +3,14 @@
 Это портфолио демонстрирует мои навыки в аналитике данных и визуализации. Здесь представлены проекты, выполненные с использованием Python, Jupyter Notebook и Power BI, включая исследовательский анализ данных, построение дашбордов и маркетинговую аналитику. Все проекты имеют HTML-версии для удобного просмотра, исходные данные конфиденциальны.
 ## Основные проекты
 
-### 1. [Отчет в Power BI по предоставленным данным Строительного магазина](https://j1movsky.github.io/analytics-portfolio/construction-company/index.html)
+###  Проект 1. [Отчет в Power BI по предоставленным данным Строительного магазина](https://j1movsky.github.io/analytics-portfolio/construction-company/index.html)
 
 - Задача: Рассчёт основных метрик и KPI
 - Инструменты: PowerBi 
 - Результат: Визуализация отчета в PowerBI.
 
 
-### 2. [Экспериментальная оптимизация маркетплейса онлайн-курсов](https://j1movsky.github.io/analytics-portfolio/online_course_marketplace/index.html)
+### Проект 2. [Экспериментальная оптимизация маркетплейса онлайн-курсов](https://j1movsky.github.io/analytics-portfolio/online_course_marketplace/index.html)
 
 - Задача: Оценить влияние факторов продукта (цены и рейтинга курса) на вовлечённость пользователей и выручку платформы с использованием экспериментального подхода.
 - Инструменты: Python, Pandas, Numpy, Matplotlib, Jupyter Notebook
