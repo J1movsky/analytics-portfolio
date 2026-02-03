@@ -7,7 +7,7 @@
 
 - Задача: Рассчёт основных метрик и KPI
 - Инструменты: PowerBi 
-- Результат: Визуализация отчета в PowerBI, написание формул.
+- Результат: Визуализация отчета в PowerBI.
 
 
 ### 2. [Экспериментальная оптимизация маркетплейса онлайн-курсов](https://j1movsky.github.io/analytics-portfolio/online_course_marketplace/index.html)
