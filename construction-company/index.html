@@ -38,9 +38,10 @@
 }
 
 .card {
-    flex: 0 1 calc(50% - 20px); /* ширина ~50% с учетом gap */
+    flex: 0 1 300px; /* фиксированная меньшая ширина */
+    max-width: 300px;
     background-color: #fff;
-    padding: 20px;
+    padding: 15px; /* меньше внутренний отступ */
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
     text-align: center;
