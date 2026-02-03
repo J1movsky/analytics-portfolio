@@ -5,7 +5,7 @@
 
 ###  Проект 1. [Отчет в Power BI по предоставленным данным Строительного магазина](https://j1movsky.github.io/analytics-portfolio/construction-company/index.html)
 
-- #Задача#: Рассчёт основных метрик и KPI
+- ## Задача ##: Рассчёт основных метрик и KPI
 - Инструменты: PowerBi 
 - Результат: Визуализация отчета в PowerBI.
 
