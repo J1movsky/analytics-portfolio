@@ -5,9 +5,9 @@
 
 ### 1. [Отчет в Power BI по предоставленным данным Строительного магазина](https://j1movsky.github.io/analytics-portfolio/construction-company/index.html)
 
-- Рассчёт основных метрик и KPI
-- Расчет показателей по компании в разрезе отделов и менеджеров 
-- Визуализация отчета в PowerBI
+- Задача: Рассчёт основных метрик и KPI
+- Инструменты: PowerBi 
+- Результат: Визуализация отчета в PowerBI, написание формул.
 
 
 ### 2. [Экспериментальная оптимизация маркетплейса онлайн-курсов](https://j1movsky.github.io/analytics-portfolio/online_course_marketplace/index.html)
