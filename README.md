@@ -9,4 +9,4 @@
 - Визуализация отчета в PowerBI
 
 
-### 2. [Экспериментальная оптимизация маркетплейса онлайн-курсов](https://j1movsky.github.io/analytics-portfolio/project_data_courses.html)
+### 2. [Экспериментальная оптимизация маркетплейса онлайн-курсов](https://j1movsky.github.io/analytics-portfolio/index.html)
