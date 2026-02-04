@@ -34,7 +34,7 @@
 
 ## 📬 Контакты
 
-**Денис — аналитик данных**
+**Денис — Аналитик Данных**
 
 - ✉️ Email: [mr.a.den3508@gmail.com](mailto:mr.a.den3508@gmail.com)  
 - 💻 GitHub: [Dzianis](https://github.com/J1movsky)  
