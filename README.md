@@ -38,6 +38,6 @@
 
 - ✉️ Email: [mr.a.den3508@gmail.com](mailto:mr.a.den3508@gmail.com)  
 - 💻 GitHub: [Dzianis](https://github.com/J1movsky)  
-- 📝 Резюме: [HH.ru / Rabota.by](https://rabota.by/resume/da01a00fff0ea0c4c40039ed1f3542774a7955)
+- 📝 Резюме: [HH.ru / Rabota.by](https://rabota.by/resume/ef711d81ff100b3a6e0039ed1f584c6c4c7757)
 
 
